@@ -15,6 +15,8 @@ Workbooks.Open " Nome completo do arquivo " = Abre o Arquivo informado no parame
 
 Workbooks.Close = Fecha o Arquivo, se informar False depois do parametro .Close o arquivo não será salvo automaticamente.
 
-
+Workbook.SaveAs "C:\Users\Desktop\arquivo.xlsx", _
+    xlOpenXMLStrictWorkbook
+= Salva  o arquivo no caminho e com o nome expecificado entre "  ", e  é necessario informar depois do paramentro o formato do arquivo como por exemplo XLSX que é xlOpenXMLStrictWorkbook.
 
 
