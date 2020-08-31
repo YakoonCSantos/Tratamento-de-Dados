@@ -1,7 +1,7 @@
-#Tratamento de Dados
+# Tratamento de Dados
 Repositório para Consolidar formas para a Extração, Tratamento e Carregamento de Dados.
-##Opening archive / Abrindo arquivo
-###Visual Basic for Applications
+## Opening archive / Abrindo arquivo
+### Visual Basic for Applications
 > Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" . 
 
 Workbook = "arquivo" que esta salvo o Script.
