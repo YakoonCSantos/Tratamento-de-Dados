@@ -1,11 +1,11 @@
-<h1>Tratamento-de-Dados</h1>
+#Tratamento-de-Dados
 Repositório para Consolidar formas para a Extração, Tratamento e Carregamento de Dados.
 
-<h2>Opening archive / Abrindo arquivo</h2>
+##Opening archive / Abrindo arquivo
 
 
-<h3>Visual Basic for Applications </h3>
-**_Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" ._**
+##Visual Basic for Applications
+**__ Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" . __**
 
 Workbook = "arquivo" que esta salvo o Script.
 
