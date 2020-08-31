@@ -2,7 +2,7 @@
 Repositório para Consolidar formas para a Extração, Tratamento e Carregamento de Dados.
 ## Opening archive / Abrindo arquivo
 ### Visual Basic for Applications
-> Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" . 
+> Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate", prefira expecificar a ação que deseja realizar. 
 
 - Workbook = "arquivo" que esta salvo o Script.
 
