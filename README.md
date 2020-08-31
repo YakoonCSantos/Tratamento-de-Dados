@@ -5,6 +5,8 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 > Para ganho de processamento  evite utilizar comandos como ;
 >`.Select`  e `.Activate`, prefira expecificar a ação que deseja realizar. 
 > `.Copy` e `.Paste` ou `.PasteSpecial`, prefira expecificar o caminho do conteúdo que deseja inserir  Ex.: `Range(B1) = Range(A1).Value` .
+> E insira antes de qualquer declaração (no inicio do Código) os comandos;
+> 'Application.Calculation = xlCalculationManual ', e se for necessário atualizar algum calculo das Formulas, insira antes do 'End Sub' o comando 'Application.Calculation = xlCalculationAutomatic'
 
 - `Workbook` = "arquivo" que esta salvo o Script.
 
