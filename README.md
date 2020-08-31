@@ -4,7 +4,7 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 ### Visual Basic for Applications
 > Para ganho de processamento  evite utilizar comandos como ;
 >`.Select`  e `.Activate`, prefira expecificar a ação que deseja realizar. 
-> `.Copy` e `.Paste` ou `.PasteSpecial`, prefira expecificar o caminho do conteúdo que deseja inserir  Ex.: `Range(B1) = Range(A1)` .
+> `.Copy` e `.Paste` ou `.PasteSpecial`, prefira expecificar o caminho do conteúdo que deseja inserir  Ex.: `Range(B1) = Range(A1).Value` .
 
 - `Workbook` = "arquivo" que esta salvo o Script.
 
