@@ -5,7 +5,7 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 
 
 <h3>Visual Basic for Applications </h3>
-Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" .
+**_Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" ._**
 
 Workbook = "arquivo" que esta salvo o Script.
 
