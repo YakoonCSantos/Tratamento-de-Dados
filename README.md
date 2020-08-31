@@ -1,10 +1,10 @@
-# Tratamento-de-Dados
+<h1>Tratamento-de-Dados</h1>
 Repositório para Consolidar formas para a Extração, Tratamento e Carregamento de Dados.
 
-Opening archive / Abrindo arquivo
+<h2>Opening archive / Abrindo arquivo</h2>
 
 
- #VBA  
+<h3>Visual Basic for Applications </h3>
 Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" .
 
 Workbook = "arquivo" que esta salvo o Script.
