@@ -12,7 +12,7 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 
 - Workbook.FullName = Propriedade que retorna o nome completo do objeto "arquivo".
 
-- Workbooks.Open " Nome completo do arquivo " = Abre o Arquivo informado no parametro, entre " ".
+- Workbooks.Open " C:\Users\Desktop\arquivo.xlsx " = Abre o Arquivo informado no parametro, entre " ".
 
 - Workbooks.Close = Fecha o Arquivo, se informar False depois do parametro .Close o arquivo não será salvo automaticamente.
 
