@@ -1,8 +1,10 @@
 # Tratamento-de-Dados
 Repositório para Consolidar formas para a Extração, Tratamento e Carregamento de Dados.
 
-Opening archive / Abrindo arquivo 
-VBA;
+Opening archive / Abrindo arquivo
+#VBA;
+Para ganho de processamento  evite utilizar comandos como   ".Select"  e ".Activate" .
+
 Workbook = "arquivo" que esta salvo o Script.
 
 ThisWorkbook = objeto "arquivo" que esta salvo o Script e ActiveWorkbook = objeto "arquivo" que esta ativo no momento de execução do Script.
@@ -20,3 +22,19 @@ Workbook.SaveAs "C:\Users\Desktop\arquivo.xlsx", _
 = Salva  o arquivo no caminho e com o nome expecificado entre "  ", e  é necessario informar depois do paramentro o formato do arquivo como por exemplo XLSX que é xlOpenXMLStrictWorkbook.
 
 Workbooks.Add  =  Cria um novo arquivo .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
