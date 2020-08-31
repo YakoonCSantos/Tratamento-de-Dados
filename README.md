@@ -11,6 +11,7 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 > E insira antes de qualquer declaração (no inicio do Código) os comandos;
 > 
 > `Application.Calculation = xlCalculationManual`, e se for necessário atualizar algum calculo das Formulas, insira antes do `End Sub` o comando `Application.Calculation = xlCalculationAutomatic`.
+> `Application.ScreenUpdating = False`, se realmente for necessario que o Excel fique atualizando a tela enquanto o código é executado, deixe como `Application.ScreenUpdating = true`.
 
 - `Workbook` = "arquivo" que esta salvo o Script.
 
