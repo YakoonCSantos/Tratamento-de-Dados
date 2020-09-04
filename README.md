@@ -43,5 +43,8 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 - `SELECT * FROM <tabela>;` = retorna todas as colunas e tuplas da tabela, utilize o ` * ` somente quando estiver conhecendo a tabela, pois sobrecarrega a performace do banco e o retorno dos dados.
 
 
+- `SELECT <Coluna>, <Coluna da tabela2>, <...> FROM <tabela> NATURAL JOIN <tabela2>;` = Junta ambas as tabelas, mas é necessario que uma ou mais coluna em ambas tenha o mesmo nome, Ex.: `'Coluna 'ID_cliente' esta na Tabela 'Client' e na Tabela 'Sales'`.
+
+
 
 
