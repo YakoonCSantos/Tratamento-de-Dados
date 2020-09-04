@@ -40,7 +40,7 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
 
 - `desc <tabela>;` = retorna as características da tabela selecionada.
 
-- `SELECT * FROM <tabela>;` = retorna todas as colunas e tuplas da tabela, utilize o ' * ' somente quando estiver conhecendo a tabela, pois sobrecarrega a performace do banco e o retorno dos dados.
+- `SELECT * FROM <tabela>;` = retorna todas as colunas e tuplas da tabela, utilize o ` * ` somente quando estiver conhecendo a tabela, pois sobrecarrega a performace do banco e o retorno dos dados.
 
 
 
