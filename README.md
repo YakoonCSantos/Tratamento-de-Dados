@@ -29,3 +29,17 @@ Repositório para Consolidar formas para a Extração, Tratamento e Carregamento
     xlOpenXMLStrictWorkbook` = Salva  o arquivo no caminho e com o nome expecificado entre "  ", e  é necessario informar depois do paramentro o formato do arquivo como por exemplo XLSX que é xlOpenXMLStrictWorkbook.
 
 - `Workbooks.Add`  =  Cria um novo arquivo .
+
+
+### SQL
+- `SELECT tablespace_name, table_name, owner FROM dba_tables;` = listar todas as tabelas do Banco.
+
+- `SELECT tablespace_name, table_name, owner FROM all_tables;` = listar todas as tabelas às quais o usuário tem acesso (sendo ele o owner (dono) ou não).
+
+- `SELECT tablespace_name, table_name, owner FROM user_tables;` = listar todas as tabelas do usuário corrente.
+
+- `desc <tabela>;` = retorna as características da tabela selecionada.
+
+
+
+
